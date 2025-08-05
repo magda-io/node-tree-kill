@@ -1,6 +1,6 @@
 {
-  "name": "tree-kill",
-  "version": "1.2.2",
+  "name": "@magda/tree-kill",
+  "version": "1.2.3",
   "description": "kill trees of processes",
   "main": "index.js",
   "types": "index.d.ts",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pkrumins/node-tree-kill.git"
+    "url": "git://github.com:magda-io/node-tree-kill.git"
   },
-  "homepage": "https://github.com/pkrumins/node-tree-kill",
+  "homepage": "https://github.com/magda-io/node-tree-kill",
   "keywords": [
     "tree",
     "trees",

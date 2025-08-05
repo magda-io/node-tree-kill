@@ -3,6 +3,8 @@ Tree Kill
 
 Kill all processes in the process tree, including the root process.
 
+> This is a forked version of [tree-kill](https://www.npmjs.com/package/tree-kill). Included [Build process tree for macOS](https://github.com/pkrumins/node-tree-kill/pull/44)
+
 Examples
 =======
 
